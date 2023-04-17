@@ -38,7 +38,7 @@
             <input type="date" name="date" id="date" class="form-control" required>
         </div>
 
-        <button type="submit" class="btn btn-primary">Guardar libro</button>
+        <button type="submit" class="btn btn-primary">Crear evento</button>
         <a href="{{ route('index') }}" class="btn btn-primary">Go Back</a>
     </form>
 

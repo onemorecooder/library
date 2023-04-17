@@ -57,7 +57,7 @@
                 </div>
             </div>
 
-            <button type="submit" class="btn btn-primary">Guardar cambios</button>
+            <button type="submit" class="btn btn-primary">Modificar evento</button>
             <a href="{{ route('index') }}" class="btn btn-primary">Go Back</a>
         </form>
 
